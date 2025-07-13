@@ -17,6 +17,7 @@ typedef struct intList
 
 void init_list(intList *list);
 void add_front(intList *list, intNode *new_node);
+void remove_front(intList *list);
 
 int main()
 {
@@ -52,4 +53,15 @@ void add_front(intList *list, intNode *new_node)
     new_node->next = list->head;
     list->head = new_node;
     list->elemCount++;
+}
+
+void remove_front(intList *list)
+{
+    if(list->head != NULL)
+    {
+        intNode *old = list->head;
+        list->head = list->head->next;
+        free(old);
+        list->elemCount--;
+    }
 }
