@@ -239,6 +239,11 @@ int main() {
                 {
                     // worm'ün sağ kısmı gitti
                     printf("Right part destroyed, left part survives\n");
+
+                    for (int i = remove_end; i >= remove_start; i--)
+                    {
+                        removeBack(wormfield[hit_worm_index]);
+                    }
                 }
                 else
                 {
