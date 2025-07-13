@@ -1,23 +1,8 @@
-# Compiler settings
-CC = gcc
-CFLAGS = -std=c99 -Wall -Werror
-TARGET = worms.exe
-SOURCE = worms.c
+# Makefile for worms.c
+worms.exe: worms.c
+	gcc -std=c99 -Wall -Werror worms.c -o worms.exe
 
-# Default target
-all: $(TARGET)
-
-# Build target
-$(TARGET): $(SOURCE)
-	$(CC) $(CFLAGS) $(SOURCE) -o $(TARGET)
-
-# Clean up generated files
 clean:
-	rm -f $(TARGET)
+	rm -f worms.exe
 
-# Rebuild everything
-rebuild: clean all
-
-# Run the program after building
-run: $(TARGET)
-	./$(TARGET)
+.PHONY: clean
