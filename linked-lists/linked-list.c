@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#define LIST_SIZE 3
+
 typedef struct intNode
 {
     int data;
@@ -13,34 +15,41 @@ typedef struct intList
     int elemCount;
 } intList;
 
+void init_list(intList *list);
+void add_front(intList *list, intNode *new_node);
+
 int main()
 {
-    intNode* Node1 = (intNode*)malloc(sizeof(intNode));
-    intNode* Node2 = (intNode*)malloc(sizeof(intNode));
-    intNode* Node3 = (intNode*)malloc(sizeof(intNode));
-
-    Node1->data = 1;
-    Node2->data = 2;
-    Node3->data = 3;
-
-    Node1->next = Node2;
-    Node2->next = Node3;
-    Node3->next = NULL;
-
     intList list;
-    list.head = Node1;
-    list.elemCount = 3;
+    init_list(&list);
 
-    intNode* ptr = list.head;
-    while (ptr != NULL)
+    for (int i = LIST_SIZE; i > 0; i--)
     {
-        printf("%d\n", ptr->data);
-        ptr = ptr->next;
+        intNode *new_node = (intNode*)malloc(sizeof(intNode));
+        new_node->data = i;
+        add_front(&list, new_node);
     }
 
-    free(Node1);
-    free(Node2);
-    free(Node3);
+    intNode *temp = list.head;
+    while (temp != NULL)
+    {
+        printf("%d -> ", temp->data);
+        temp = temp->next;
+    }
+    printf("NULL\n");
 
     return EXIT_SUCCESS;
+}
+
+void init_list(intList *list)
+{
+    list->head = NULL;
+    list->elemCount = 0;
+}
+
+void add_front(intList *list, intNode *new_node)
+{
+    new_node->next = list->head;
+    list->head = new_node;
+    list->elemCount++;
 }
