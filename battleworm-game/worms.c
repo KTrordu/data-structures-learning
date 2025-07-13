@@ -249,6 +249,42 @@ int main() {
                 {
                     // worm ikiye ayrıldı
                     printf("Worm split into two parts!\n");
+
+                    struct DoublyList* new_worm = (struct DoublyList*) malloc(sizeof(struct DoublyList));
+                    new_worm->head = NULL;
+                    new_worm->tail = NULL;
+                    new_worm->elemcount = 0;
+
+                    struct Node* position_ptr = wormfield[hit_worm_index]->head;
+                    for (int i = 0; i <= remove_end; i++)
+                    {
+                        position_ptr = position_ptr->next;
+                    }
+                    
+                    while (position_ptr != NULL)
+                    {
+                        struct WormPart* new_part = malloc(sizeof(struct WormPart));
+                        new_part->x = position_ptr->data->x;
+                        new_part->y = position_ptr->data->y;
+
+                        addBack(new_worm, new_part);
+                        position_ptr = position_ptr->next;
+                    }
+
+                    if(new_worm->elemcount > 0)
+                    {
+                        wormfield[wormcount] = new_worm;
+                        wormcount++;
+                    }
+                    else
+                    {
+                        free(new_worm);
+                    }
+
+                    for (int i = 0; i < length - left_remaining; i++)
+                    {
+                        removeBack(wormfield[hit_worm_index]);
+                    }
                 }
             }
 
