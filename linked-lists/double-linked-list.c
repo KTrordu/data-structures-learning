@@ -23,6 +23,7 @@ void remove_front(intDoubleList *list);
 void add_back(intDoubleList *list, int new_element);
 void remove_back(intDoubleList *list);
 void add_at_a_position(intDoubleList *list, int new_element, int position);
+void remove_at_a_position(intDoubleList *list, int position);
 
 int main()
 {
@@ -132,4 +133,32 @@ void add_at_a_position(intDoubleList *list, int new_element, int position)
     if(position == list->elemCount) list->tail = new_node;
 
     list->elemCount++;
+}
+
+void remove_at_a_position(intDoubleList *list, int position)
+{
+    if(position == 0)
+    {
+        remove_front(list);
+        return;
+    }
+    else if(position > list->elemCount) return;
+
+    intNode *prev_node = NULL;
+    intNode *position_ptr = list->head;
+
+    for (int index = 0; index < position; index++)
+    {
+        prev_node = position_ptr;
+        position_ptr = position_ptr->next;
+    }
+
+    prev_node->next = position_ptr;
+
+    if(position_ptr->next != NULL) position_ptr->next->previous = prev_node;
+
+    if(position == list->elemCount - 1) list->tail = prev_node;
+
+    free(position_ptr);
+    list->elemCount--;
 }
