@@ -21,6 +21,7 @@ void remove_front(intList *list);
 void add(intList *list, int new_element, int position);
 void remove_at_position(intList *list, int position);
 int get(intList *list, int position);
+int length(intList *list);
 
 int main()
 {
@@ -137,4 +138,9 @@ int get(intList *list, int position)
         position_ptr = position_ptr->next;
     }
     return position_ptr->data;
+}
+
+int length(intList *list)
+{
+    return list->elemCount;
 }
