@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define LIST_SIZE 3
+#define LIST_SIZE 5
 
 typedef struct intNode
 {
@@ -37,13 +37,11 @@ int main()
 
     remove_at_position(&list, 0);
 
-    intNode *temp = list.head;
-    while (temp != NULL)
+    for (int i = 0; i < length(&list); i++)
     {
-        printf("%d -> ", temp->data);
-        temp = temp->next;
+        printf("%d\n", get(&list, i));
     }
-    printf("NULL\n");
+    
 
     return EXIT_SUCCESS;
 }
