@@ -20,6 +20,7 @@ void add_front(intList *list, int new_element);
 void remove_front(intList *list);
 void add(intList *list, int new_element, int position);
 void remove_at_position(intList *list, int position);
+int get(intList *list, int position);
 
 int main()
 {
@@ -120,4 +121,20 @@ void remove_at_position(intList *list, int position)
     prev_node->next = position_ptr->next;
     free(old);
     list->elemCount--;
+}
+
+int get(intList *list, int position)
+{
+    if(position < 0 || position > list->elemCount)
+    {
+        printf("Invalid position\n");
+        return -1;
+    }
+
+    intNode *position_ptr = list->head;
+    for (int i = 0; i < position; i++)
+    {
+        position_ptr = position_ptr->next;
+    }
+    return position_ptr->data;
 }
