@@ -16,9 +16,9 @@ typedef struct intList
 } intList;
 
 void init_list(intList *list);
-void add_front(intList *list, intNode *new_node);
+void add_front(intList *list, int new_element);
 void remove_front(intList *list);
-void add(intList *list, intNode *new_node, int position);
+void add(intList *list, int new_element, int position);
 void remove_at_position(intList *list, int position);
 
 int main()
@@ -28,14 +28,10 @@ int main()
 
     for (int i = LIST_SIZE; i > 0; i--)
     {
-        intNode *new_node = (intNode*)malloc(sizeof(intNode));
-        new_node->data = i;
-        add_front(&list, new_node);
+        add_front(&list, i);
     }
 
-    intNode *add_node = (intNode*)malloc(sizeof(intNode));
-    add_node->data = 99;
-    add(&list, add_node, 1);
+    add(&list, 99, 1);
 
     remove_at_position(&list, 0);
 
@@ -56,8 +52,10 @@ void init_list(intList *list)
     list->elemCount = 0;
 }
 
-void add_front(intList *list, intNode *new_node)
+void add_front(intList *list, int new_element)
 {
+    intNode *new_node = (intNode*)malloc(sizeof(intNode*));
+    new_node->data = new_element;
     new_node->next = list->head;
     list->head = new_node;
     list->elemCount++;
@@ -74,14 +72,17 @@ void remove_front(intList *list)
     }
 }
 
-void add(intList *list, intNode *new_node, int position)
+void add(intList *list, int new_element, int position)
 {
     if(position == 0)
     {
-        add_front(list, new_node);
+        add_front(list, new_element);
         return;
     }
     else if(position > list->elemCount) return;
+
+    intNode *new_node = (intNode*)malloc(sizeof(intNode));
+    new_node->data = new_element;
 
     intNode *prev_node = NULL;
     intNode *position_ptr = list->head;
