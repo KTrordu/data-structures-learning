@@ -13,6 +13,8 @@ typedef struct intList
 {
     intNode *head;
     int elemCount;
+    intNode *iterator;
+    int iterator_index;
 } intList;
 
 void init_list(intList *list);
@@ -50,6 +52,8 @@ void init_list(intList *list)
 {
     list->head = NULL;
     list->elemCount = 0;
+    list->iterator = NULL;
+    list->iterator_index = -1;
 }
 
 void add_front(intList *list, int new_element)
@@ -130,12 +134,19 @@ int get(intList *list, int position)
         return -1;
     }
 
-    intNode *position_ptr = list->head;
-    for (int i = 0; i < position; i++)
+    if (list->iterator == NULL || list->iterator_index > position)
     {
-        position_ptr = position_ptr->next;
+        list->iterator = list->head;
+        list->iterator_index = 0;
     }
-    return position_ptr->data;
+
+    for (int index = list->iterator_index; index < position; index++)
+    {
+        list->iterator = list->iterator->next;
+        list->iterator_index++;
+    }
+
+    return list->iterator->data;
 }
 
 int length(intList *list)
