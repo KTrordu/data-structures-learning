@@ -1,0 +1,320 @@
+Üyelik Sözleşmesi
+ 
+1.TARAFLAR
+ 
+Bir yanda Etiler Mah. Tanburi Ali Efendi Sk. Maya Res. T Blok No: 13/334/ Beşiktaş İSTANBUL adresinde faaliyet göstermekte olan Getir Araç Dijital Ulaşım Çözümleri Ticaret A.Ş. ile diğer tarafta işbu sözleşmeyi kabul eden gerçek kişi arasında işbu Üyelik Sözleşmesi kurulmuştur.
+
+Bu sözleşmede GetirAraç ve Üye ayrı ayrı Taraf ve müştereken Taraflar olarak geçecektir.
+ 
+2.TANIMLAR
+ 
+ 
+GetirAraç
+Getir Araç Dijital Ulaşım Çözümleri Ticaret A.Ş.’yi
+ÜYE
+İşbu Sözleşme şartları kapsamında GetirAraç tarafından verilen hizmetlerin yer aldığı Mobil Uygulama’ya kayıt olarak GetirAraç tarafından temin edilen araçları kiralayan, kullanan ve işbu Sözleşmeyi kabul eden gerçek kişileri
+Araç
+İşbu Sözleşme kapsamında ÜYE tarafından kiralanan/kiralanacak motorlu kara nakil araç/lar/ını,
+Sözleşme
+İşbu Üyelik Sözleşmesi'ni,
+Mesafe Ücreti
+Kullanım süresi içerisinde ÜYE’nin araç ile kat ettiği ve GetirAraç taşıt takip sistemi tarafından dakika ve kilometre bazında hesaplanan ÜYE’nin ödeyeceği ücreti,
+Tarife
+GetirAraç tarafından belirlenen dakika, günlük ve mesafe ücretini içeren ve Mobil Uygulama’da yayınlanan fiyat listesini,
+Süre Paketi
+Mobil Uygulama’da belirtilen süre/km için indirim faydası sağlayan ön ödemeli kullanım paketlerini,
+Hizmet Bölgesi
+Sınırları Mobil Uygulama içerisinde belirtilen ve kiralama hizmetin sunulduğu ve sonlandırıldığı bölgeyi,
+Kişisel Veri
+6698 sayılı Kişisel Verilerin Korunması Kanunu ve yürürlükte bulunan her türlü mevzuat uyarınca belirli veya belirlenebilen gerçek kişiye dair (özel nitelikli kişisel veriler dahil) her türlü bilgiyi,
+Mobil Uygulama
+GetirAraç tarafından sunulan hizmetlerin yer aldığı Android ve iOS tabanlı mobil uygulamaları,
+Kira Süresi
+Araç/lar/ın kira süresini,
+Rezervasyon
+ÜYE'nin, belirlediği tarih ve saat aralığında kiralamayı planladığı araç için önceden Mobil Uygulama üzerinden gerçekleştirdiği kiralama talebidir. Bu özellik, günlük kiralama seçeneklerini kapsayacak şekilde sunulmaktadır.
+Hasar Yönetim Bedeli
+Araç’ın hasarlanması ve ilgili hasarda ÜYE’nin kusur veya ihmali bulunması halinde, ilgili hasarlanmanın Sözleşme’nin 9. Maddesi çerçevesinde sigorta kapsamından faydalanması sebebiyle ÜYE’den tahsil edilecek ve kiralama tarihinde Mobil Uygulama’da belirtilen azami hasar yönetim hizmet bedelini, 
+ 
+ifade etmektedir.
+ 
+3.KONU
+ 
+İşbu Sözleşme’nin konusu, Sözleşme’nin yürürlükte olduğu süre içerisinde ÜYE’nin talep edeceği kiralık araç hizmetlerinin GetirAraç tarafından karşılanması ile bunun karşılığında belirlenen kira ve sair bedellerin ÜYE tarafından ödenmesinin şekil ve şartları ile tarafların karşılıklı hak ve yükümlülüklerinin belirlenmesidir.
+ 
+4.ÜYELİK
+ 
+4.1.Üyelik, Mobil Uygulama’da belirlenen üyelik prosedürünün, üye olmak isteyen kişi tarafından yerine getirilerek kayıt işleminin yapılması ile tamamlanır. ÜYE, kayıt işlemlerini yapmakla, işbu Sözleşme hükümlerini, üyeliğe ve araç kiralama şartlarına ilişkin Mobil Uygulama’da açıklanan/açıklanacak her türlü beyanı da kabul etmiş olmaktadır. 
+ 
+4.2.ÜYE, üyelik işlemlerinde belirtmiş olduğu TC kimlik numarası bulunan kimlik veya pasaport, sürücü belgesi, adres ve iletişim bilgilerinin eksiksiz ve doğru olduğunu, bilgilerinde değişiklik olması halinde bu bilgileri derhal Mobil Uygulama üzerinden güncelleyeceğini, eksik, güncel olmayan veya yanlış bilgi vermesi nedeniyle ortaya çıkabilecek her türlü hukuki uyuşmazlık ve zarardan sadece kendisinin sorumlu olacağını kabul ve beyan eder. GetirAraç’a veya Mobil Uygulama’ya bu nedenle hiçbir sorumluluk izafe edilemez.
+ 
+4.3.ÜYE, GetirAraç’tan Araç kiralama hizmeti alabilmek için işbu Sözleşme’yi ve Mobil Uygulama’da belirtilen tüm şartları kabul etmiş olmalıdır. Üye olan kişiler, tüm üyelik şartlarının yerine getirileceğini, üyelik şartlarının yerine getirilmemesi durumunda üyeliğinin tek taraflı olarak feshedilebileceğini ve ayrıca üyeliğin devredilemeyeceğini kabul ederler.
+ 
+4.4.ÜYE, ÜYE olma aşamasında Mobil Uygulama üzerinden alınan bilgilerin ve görsellerin sisteme kaydedileceğini ve saklanacağını, ehliyet şartlarının Mobil Uygulama’da belirtilen kiralama şartlarına uygun olması gerektiğini, aktivasyon ve sistemin cep telefonu üzerinden çalışması sebebiyle kayıt esnasında kullanılan cep telefonunun, aracı teslim alırken, kullanırken ve kiralama işlemini sonlandırırken yanında ve çalışır durumda olması gerektiğini kabul, beyan ve taahhüt eder, İşbu maddede belirtilen şartların tamamının mevcut olmaması halinde ÜYE, aracı teslim alamayacağını kabul eder.
+ 
+4.5.Kiralama sırasında ÜYE’nin geçerli sürücü belgesini yanında bulundurması zorunludur. Aksi takdirde bu nedenle doğabilecek bütün cezalardan ÜYE sorumludur.
+ 
+4.6. 19 yaşın altındaki ve en az 1 yıllık ehliyet sahibi olmayan kişilerin üyelik talepleri GetirAraç tarafından reddedilecek ve üyelik aktif hale gelmeyecektir. Halihazırda 19 yaşının altındaki ve en az 1 yıllık ehliyet sahibi olmayan ÜYELER'in üyelikleri, kriterleri karşılayana kadar askıya alınacaktır.
+ 
+5.KİRALAMA
+ 
+5.1.GetirAraç Araçlarını kiralamak için ÜYE tarafından Mobil Uygulama üzerinden aracın seçilmesi ve kiralama talebinin gerçekleştirilmesi zorunludur. GetirAraç veya Mobil Uygulama, bahse konu iletişim kanalını tek taraflı olarak değiştirmeye yetkilidir.
+ 
+5.2.GetirAraç, Mobil Uygulama üzerinden ÜYE’nin kendi adına düzenlenmiş ve geçerliliğini beyan ve taahhüt ettiği TC kimlik numarası bulunan nüfus cüzdanı fotokopisini, en az 1 yılını doldurmuş otomobil kullanımına uygun sürücü ehliyeti fotokopisini ve bilgileri doğrulamak amacıyla fotoğraf ve/veya video görüntüsünü talep etmeye yetkilidir. GetirAraç veya Mobil Uygulama, ÜYE’nin kişisel bilgi ve belgelerinin doğruluğunun kontrolü amacıyla, ilgili kuruluşlara başvurarak ÜYE hakkında bilgi edinme hakkına sahiptir. GetirAraç, bahse konu belgelerin sunulmaması durumunda kiralama yapmama hakkını saklı tutar.
+ 
+5.3.ÜYE, son bir yıl içerisinde herhangi bir nedenle ehliyetine el konulmadığını, işbu Sözleşme şartlarına uygun hareket edeceğini kabul eder. ÜYE’nin vermiş olduğu bilgi veya belgelerin hatalı olması veya işbu Sözleşme ve kurallara uymaması durumunda, bu durum Sözleşme’nin ihlali addedilecek, ve GetirAraç’a, işbu Sözleşme’nin 11. Maddesindeki şartlar dahilinde Sözleşme’yi tek taraflı olarak feshetme ve Mobil Uygulama’daki üyeliğinin askıya alınması veya sona erdirilmesi hakkını verecektir.
+ 
+5.4.ÜYE, kullanıcı adı, şifresi ve Mobil Uygulama ile yapılan tüm işlemler ile verdiği elektronik posta adresi ve cep telefonu ile yapılan tüm işlemlerin kendi sorumluluğunda olduğunu ve kendi rızası ile yapıldığını kabul ve beyan eder. ÜYE tarafından Araç’a fiziksel erişimin sağlanması ile Araç teslim edilmiş sayılır. Mobil Uygulama ile yapılan kiralama talebini iptal etme, Araçtaki hasarları veya eksikleri bildirme, Araç kapılarının açılmasını sağlayarak aracın çalıştırılması gibi tüm işlemler ile verdiği elektronik posta adresi ve cep telefonu ile yapılan tüm işlemlerden bizzat ÜYE sorumludur. Mobil Uygulama ile yapılan tüm işlemlerde Mobil Uygulama ve GetirAraç kayıtları geçerli olup, ÜYE, Mobil Uygulama ve GetirAraç tarafından üretilen her türlü kayıt ve dökümanı kabul ettiğini gayrikabili rücu olarak kabul eder.
+ 
+5.5.ÜYE’nin Mobil Uygulama üzerinden bildirim onayı vermesi halinde ÜYE’ye bildirilecek yakın mesafedeki Araç’lar kiralama taahhüdü oluşturmayacak olup, yalnızca bilgilendirme amaçlıdır. Kiralama işlemi öncelikli işlem kuralı çerçevesinde başlatılacaktır. GetirAraç veya Mobil Uygulama, bildirilen Aracın bir başka Üye tarafından kiralanması sebebiyle hiçbir sorumluluk kabul etmemektedir.
+ 
+5.6.ÜYE’nin bekletme modunu kullanması halinde bekletme süresi boyunca Araç kendisine rezerve edilmiş olacaktır. Bekletme modu süresi ve paket içerikleri GetirAraç tarafından belirlenir ve bu süreleri tek taraflı olarak değiştirme hakkına sahiptir. Bekletme modu kiralama ücretinden bağımsız olup ayrıca ücretlendirilecektir.
+ 
+5.7.ÜYE, Mobil Uygulama üzerinden araç rezervasyonu yaparken başlangıç ve bitiş tarih-saatini seçerek rezervasyon süresini belirler.Rezervasyon seçeneğinde kiralamaya dair ücretler ve ücretlendirme yönetimi GetirAraç tarafından tek taraflı olarak belirlenir ve GetirAraç dilediğinde rezervasyon ücretini değiştirme hakkını saklı tutar.
+ 
+6.TARİFE, FİYAT, ÜCRETLENDİRME ve TEMİNAT
+ 
+ 
+6.1.Araç kiralamalarına ilişkin uygulanacak olan minumum kullanım ücreti, tarife, mesafe ücreti, bekletme modu ücreti, hizmet bedeli ve diğer tüm ücretler Mobil Uygulama’da ilan edilen tutarlardır. Tarifelerde yer alan ücretler, Araç modeli, lokasyon, gün, dakika, saat bloğu ve saate göre değişiklik gösterebilir. İlan edilen tarife, mesafe ücreti, bekletme modu ücreti, hizmet bedeli ve diğer tüm ücretler en geç ilgili kiralama öncesinde herhangi bir izne ve bildirime gerek olmaksızın değiştirilebilir ve iptal edilebilir. Ayrıca, Mobil Uygulama’nın kullanıldığı yer ve zamana göre farklı ücret uygulama hakkı saklıdır. Mobil Uygulama’da ilan edilecek yeni fiyat ve ücretlendirmeyi ÜYE peşinen kabul eder.
+ 
+6.2.ÜYE, kiraya konu Aracı kullandığı süre bazında kiralama bedeli ve her halükarda minumum kullanım ücretini ödemekle yükümlüdür. Kiralama bedeli minumum olarak belirlenen miktardan az ise Üye'ye minumum kullanım ücreti üzerinden faturalama yapılır. Ücretlendirmeye ilişkin tüm detaylar Mobil Uygulama içerisinde yer almakta olup kiralama koşullarının ve ilgili ücretlerin değiştirilmesine ilişkin haklar saklıdır.
+ 
+6.3.ÜYE tarafından Mobil Uygulama ile Araç talep edildiğinde, Mobil Uygulama’da belirtilen ücret ön provizyon olarak ÜYE’nin kredi kartından çekilir. Kiralama işleminin sona ermesiyle provizyon tutarının iptali sağlanacak olup iade edilen bedelin kredi kartına yansıma süresi bankanın iç işleyişine bağlıdır. GetirAraç veya Mobil Uygulama, banka işlemlerinde yaşanacak gecikme veya hatalardan sorumlu değildir.
+ 
+6.4.ÜYE’nin bekletme modunu kullanması halinde, bekletme ücreti ÜYE’nin kredi kartından çekilir. Bekletme modunun ilk beş dakika içerisinde iptali halinde bekletme ücreti ÜYE’nin kredi kartına iade edilir, beş dakikadan sonra gerçekleşecek iptallerde bekletme ücreti iade edilmez. ÜYE, bekletme modu sona erdikten sonra beklettiği aracı kiralamaz ise GetirAraç tarafından belirlenencek ek bir ücret tahsil edecektir. GetirAraç’ın ilgili ücretleri tek taraflı değişiklik hakkı saklıdır.
+ 
+6.5.Bekletme modu sona erdiğinde ve kiralamaya geçildiğinde Mobil Uygulama’da belirtilen kiralama ücreti, (ön provizyon ya da paket ücreti şeklinde seçilen kullanım türüne göre değişkenlik gösterebilir) ÜYE’nin kredi kartından çekilir. ÜYE’nin kiralama paketi seçmesi halinde paket ücreti kiralama başından ÜYE’nin kredi kartından tahsil edilir. ÜYE’nin kredi kartında yeterli bakiye bulunmaması halinde ÜYE’ye ödeme limitlerini güncellemek için 30 dakika süre verilir. Verilen süre içerisinde yeterli bakiye sağlanmaz ise kiralama işlemi sonlanmış olur. Bu süre ayrıca dakikalık araç kiralama ücreti üzerinden ücretlendirilmektedir.
+ 
+6.6.ÜYE’nin üçüncü bir kişiye ait kredi kartı kullanması halinde üçüncü kişiye karşı tüm sorumluluk ÜYE’ya aittir. Üçüncü kişilerden gelen itiraz ve şikayetlerden dolayı Getir Araç’ın herhangi bir zarara uğraması, kullanım bedelini ya da sözleşmeden doğan herhangi bir alacağını tahsil edememesi veya ceza ya tazminat ödemesi hallerinde, bu zararın tamamını ÜYE’ye yansıtma ve rücu etme hakkı saklıdır.
+ 
+6.7.Araç kiralama bedeline HGS, OGS, köprü geçiş bedelleri, otoyol bedelleri, feribot bedelleri gibi ek hizmetler ve kullanımlar dahil değildir. Bu kullanımlar, ÜYE’den ayrıca tahsil edilir.
+ 
+6.8.ÜYE tarafından teslim alınan aracın kullanım süresi ÜYE’nin aracın kapılarını açtığında başlar. Eğer aracın kapıları Mobil Uygulama’da belirtilen süre içerisinde ÜYE tarafından açılmazsa, belirtilen sürenin sonunda ücretlendirme başlamış olur. ÜYE aracın anahtarını Araç içinde bırakmadığında, kiralama anahtar geri teslim edilene kadar devam eder ve bu süre zarfından geçen süreye ilişkin ücret ÜYE’den tahsil edilir.
+ 
+6.9.Kira ücretleri, Mobil Uygulama’da belirtilmekte olup kira süresine ve/veya kullanılan mesafeye bağlı olarak fiyatlandırılır. Mesafe Ücretine konu olan mesafe bilgileri GetirAraç taşıt takip sistemi tarafından hesaplanır ve tüm hesaplamalarda GetirAraç verileri dikkate alınır. Hesaplamalarda Araç üzerinde bulunan kilometre sayacı/yol bilgisayarı üzerinde yer alan veri dikkate alınmaz.
+ 
+6.10.ÜYE, GetirAraç’ın Mobil Uygulama üzerinden sunmuş olduğu Süre Paket/ler/inden birini seçerek ön ödemeli olarak belirli bir süre kullanım hakkı satın alabilecektir. Bu paketlerin satın alınması halinde, satın alınan süre boyunca ve belirtilen KM limitleri dahilinde ÜYE’den başkaca bir kullanım ücreti tahsil edilmeyecektir. ÜYE’nin, satın aldığı Süre Paketi’nin tamamını kullan/a/maması halinde kalan süre ve/veya KM, bir sonraki kiralama işlemine devretmeyecek veya kalan süre/KM’ye ilişkin ücret iadesi yapılmayacaktır. Süre Paketi kullanımında, otoyol, köprü, tünel vb. ücretli yol kullanımları ayrıca paket bedeli üzerine eklenecek olup, paket bedelleri yalnızca Mesafe Ücreti’ni içermektedir. Süre Paketi kapsamında belirlenen süre ve/veya KM’yi aşan kullanımlarda standart Tarife üzerinden kira bedeli tahsil edilmeye devam edecektir.
+ 
+6.11.GetirAraç, tarife ve fiyatlandırmalarda lokasyona özel farklılaştırma uygulayabilir. Bu kapsamda, uygulama içerisinde kullanıcıya gösterilecek fiyat, kullanıcının, harita üzerinde araç konumuna göre,“Araçlar & Fiyatlar” veya rezervasyon sayfasında uygulamayı açtığı lokasyona göre, ya da rezervasyon esnasında seçtiği başlangıç adresine göre, belirlenecektir. Fiyatlar, uygulamanın en güncel versiyonunun yüklü olduğu hallerde güncellik arz edecek olup, uygulamanın güncel verisyonunun kullanılmaması sebebiyle oluşabilecek fiyat farklılıklarından GetirAraç sorumlu değildir.
+ 
+7.ÖDEME
+ 
+7.1.ÜYE, işbu Sözleşme kapsamında yapılan kiralamalar ile ilgili kira bedellerini, mesafe ücretlerini, tüm otopark, köprü ücretlerini, HGS/OGS ve otoyol geçiş giderlerini, HGS/OGS cezalarını, trafik para cezalarını, kendi kusurundan kaynaklanan hasar/zarar bedellerini, hizmet bedellerini ve sayılanlarla sınırlı olmaksızın işbu Sözleşme’den ve kiralama işleminden kaynaklanan sair tüm bedelleri ve KDV tutarlarını ödemeyi kabul, beyan ve taahhüt eder.
+ 
+7.2.ÜYE, tarafından Mobil Uygulama’ya eklenen kartlardan, kiralama sonrası oluşan bedellerin ödenmesi amacıyla ödeme talimatı alınacaktır. ÜYE, kiralamadan kalan borcunu farklı bir kartla ödemek isterse, bu kart için de ödeme talimatı alınacaktır. Ödeme talimatı alınan tüm kartlardan kiralama sonrası oluşacak borçlar tahsil edilebilecektir. 
+ 
+7.3.ÜYE kiralama işlemlerine ilişkin ödemeleri Mobil Uygulama’da tanımlamış olduğu kredi kartı üzerinden yapacaktır. Mobil Uygulama’da en az 1 (bir) adet kredi kartının tanımlanmış olması zorunlu olup yeni bir kredi kartı tanımlanmadan sistemde yer alan kredi kartı bilgilerini iptal etmek mümkün değildir. ÜYE'nin yeni bir kredi kartı tanımlamadan sistemdeki kredi kartı bilgilerini iptal etmeye çalışması durumunda, sadece ÜYE'nin borcu yoksa ve ÜYE'nin yaptığı son kiralamanın üzerinden 6 ay geçmiş ise sistem bu duruma izin verecektir. ÜYE’nin işbu Sözleşme kapsamında ödemekle yükümlü olduğu herhangi bir bedeli zamanında tam ve eksiksiz olarak ödememesi durumunda bu durum Sözleşme’nin ihlali addedilecek, GetirAraç’a, işbu Sözleşme’nin 12. Maddesi’ndeki şartlar dahilinde Sözleşme’yi tek taraflı olarak feshetme hakkı ve ödenmemiş bedellerin talebi ve tahsili hakkı doğacaktır. ÜYE söz konusu bedelleri, fatura tarihinden itibaren işleyecek olan Türkiye Cumhuriyeti Merkez Bankası avans faizi ile birlikte ödemeyi kabul ve taahhüt eder. ÜYE’nin herhangi bir borcunun bulunması durumunda Mobil Uygulama veya GetirAraç, ÜYE’nin üyeliğini askıya almaya, iptal etmeye, kiralama taleplerini karşılamama hakkına sahiptir.
+ 
+8.ARACIN KULLANIMI
+ 
+8.1.Kiralamanın başlamasını takiben Mobil Uygulama’da plaka numarası belirtilen Araç’ın ÜYE tarafından fiziken teslim alınması ile Araç ÜYE’ye teslim edilmiş ve kiralanmış olup, ÜYE, aracı işbu Sözleşme koşullarında ve ilgili mevzuatlarda belirtilen hususlara uygun olarak kullanmayı, kira ücreti ve işbu Sözleşme’de belirtilen diğer ücretleri/bedelleri ve bu bedellere ilişkin KDV’yi ödemeyi ve işbu Sözleşme’de belirtilen tüm hususları kabul ettiğini beyan ve taahhüt eder.
+ 
+8.2.Araç, kiralama işlemini gerçekleştiren ÜYE dışında herhangi bir kimse tarafından kullanılamaz/kullandırılamaz. Kiralama işlemini gerçekleştiren ÜYE dışında, ÜYE sıfatına sahip olan diğer kişiler de yukarıda yer alan hüküm kapsamında aracı kullanım hakkına sahip olmayacaktır. Aracın kiralama işlemini gerçekleştiren ÜYE dışında bir başka kimse tarafından kullanılması/kullandırılması durumunda işbu Sözleşme’de yer alan sigorta ve teminatlara ilişkin tüm hükümler geçersiz olacaktır. Bu durumda, kiralama işlemi esnasında oluşan (bunlarla sınırlı olmamakla beraber) tüm hasar/arıza/zarar maliyetlerinden kiralama işlemini gerçekleştiren ÜYE sorumlu olacaktır. ÜYE, aracı bir başkasına kullandırması sebebiyle ortaya çıkacak tüm zarar ve cezalardan tek başına sorumlu olacaktır. GetirAraç’ın veya Mobil Uygulama’nın ödemek durumunda kalacağı bedellere ilişkin olarak ÜYE’ye rücu hakkı saklıdır. GetirAraç’ın veya Mobil Uygulama’nın işbu bedelleri Mobil Uygulama’da kayıtlı kredi kartından tahsil etme hakkı saklı olup ÜYE bu durumu peşin olarak kabul eder.
+ 
+8.3.ÜYE, Aracı teslim alınmadan önce aracın içindeki ve dışındaki olası hasarlar için aracı gözle muayene etmeyi ve araca ait resmi belgelerin ve anahtarın mevcut olup olmadığını kontrol etmeyi kabul eder. ÜYE, herhangi bir hasar veya araca ilişkin herhangi bir eksiklik tespit ederse Mobil Uygulama’ya ilgili görselleri yüklemek veya çağrı merkezi yardımı ile derhal GetirAraç’ı bilgilendirmekle yükümlüdür. Yapılan kontroller neticesinde ÜYE tarafından GetirAraç’a aksi beyan edilmediği sürece Araç, GetirAraç tarafından ÜYE’ye tüm lastikleri, anahtarı, araca ait belgeleri, aksesuarı, küllük, aracı çalıştırmaya yarayan cihaz gibi teçhizat ve avadanlıklarıyla birlikte, teslim edilmiş olarak kabul edilecektir. Bu durumda ÜYE, aracı, kaporta ve mekanik açısından sağlam ve iyi durumda teslim aldığını, Araçta gözle görülür hiçbir kaza veya hasar izi bulunmadığını Kiralama başlangıcında Mobil Uygulama üzerinden onaylayarak kabul eder. Aracı kullanmadan önce ÜYE tarafından gözden geçirme şeklinde gerçekleştirilen muayene kapsamında olağan koşullarda gözle görülebilir, tespit edilebilir ve gizli olmayan herhangi bir hasar/eksiklik hakkında bilgi verilmemesi/eksik bilgi verilmesi durumunda, söz konusu hasar/eksiklikten bizzat ÜYE sorumlu tutulur.
+ 
+8.4.ÜYE, Araç üreticisi tarafından hazırlanan Araç kullanım kılavuzunun içinde yazılı hususlara uymayı, aracın kullanımında gerekli dikkat ve özeni göstermeyi, aracın iyi durumda bulunmasını kabul ve taahhüt eder.
+ 
+8.5.ÜYE aracı Karayolları Trafik Kanunu ve ilgili bütün yasal hükümlere uygun olarak, Mobil Uygulama’da belirtilen sınırlar içerisinde kullanacağını ve bu sınırlar içerisinde kiralamayı bitireceğini kabul eder. Belirtilen sınırlar dışına çıkıldığında tüm sorumluluk ÜYE’ye ait olup ortaya çıkan her türlü maruz kalınan zarardan ÜYE sorumlu olduğunu. kabul ve taahhüt eder. Ayrıca ÜYE aracı aşağıda açıklanan şekillerde veya hukuka aykırı şekilde kullanmayacak olup, aksi takdirde ortaya çıkan ceza ve her türlü masraf ile zarardan sorumlu olacaktır:
+a) Gümrük mevzuatı ve sair yasalara aykırı maddelerin taşınmasında,
+b) Yasa dışı işlerde,
+c) Herhangi bir vasıta vs. itmekte veya çekmekte,
+d) Ticari maksatla yolcu veya eşya taşınmasında,
+e) Araca zarar verecek şekilde ve yükleme haddini aşacak şahsi yük/eşya taşınmasında,
+f) Aracın, uyuşturucu madde veya alkollü içki almış veya ehliyetsiz olarak kullanılması veya ÜYE dışında üçüncü kişi/ler/e kullandırılması,
+g) Aracın iddia ve yarışlara katılması, motor sporları ile bunlara hazırlık denemelerinde (sayılanlarla sınırlı olmaksızın, yarış, ralli, hız denemeleri v.b.),
+h) Aracın marka ve modeline uygun olmayan yer ve şartlar (kum veya dağlık arazi, dere yatağı, bataklık vb.) ile aracın teknik yapısı ve dayanma gücüne uygun olmayan yer ve yollarda,
+i) Olağan dışı ve trafik koşullarına uygun olmayan yol şartlarında,
+j) Karayolu dışında veya aracın kendi gücü ile girip çıkacağı ruhsatlı sefer yapan feribot, gemiler ve trenler dışında, kara, deniz, nehir ve havada taşınması sırasında,
+k) Hayvan taşımacılığında.
+l) Sigara benzeri maddelerin teması ile meydana gelen zararlarda.
+ 
+8.6.Aracın tüm otopark, HGS, OGS, otoyol, köprü vs. geçiş ücretleri ile trafik para cezaları, faiz ve fer'leri ÜYE'ye ait olup, ÜYE tarafından ödenecektir. Kira süresi sona erse bile, kira süresi içinde düzenlenen her türlü cezadan ÜYE sorumludur. Ceza makbuzunun isim ve imza olmaksızın sadece plaka numarasına yazılması halinde dahi, ÜYE mevcut cezayı ödemeyi kabul eder. Kira süresi içerisinde Araca düzenlenecek ogs, hgs, otoyol, köprü v.s. geçiş ve otopark ücretleri ile trafik para cezalarına ilişkin ÜYE'ye ulaşan ceza makbuzları GetirAraç tarafından ödenecek ve ödenen tutar ile var ise gecikme faizi ve ferileri hizmet bedeli de eklenerek ÜYE'den tahsil edilecektir. Kira süresi ve işbu genel koşullar sona ermiş olsa dahi ÜYE işbu tutarlardan sorumludur. ÜYE, OGS, HGS, otoyol, köprü v.s. geçiş giderleri ve trafik para cezalarına GetirAraç tarafından itiraz edilmesini talep edemez, GetirAraç tarafından itiraz edilmemesinden dolayı ceza tutarlarını ödemekten kaçınamaz ve bu konuda GetirAraç'tan veya herhangi bir gerçek veya tüzel kişiden herhangi bir talepte bulunamaz. Ayrıca otopark, OGS, HGS, otoyol, köprü v.s. geçiş ücretleri, trafik cezaları ve faiz ve ferileri ile hizmet bedelleri, kira süresinin sonu beklenmeksizin ve herhangi bir izne, hükme ve bildirime gerek olmaksızın ÜYE'nin kredi kartından mahsup edilerek tahsil edilebilecektir.Bu yetki Sözleşme süresi ile sınırlı olmayıp, Sözleşme sona ermiş olsa dahi otopark, OGS, HGS, otoyol, köprü v.s. geçiş ücretleri, trafik cezaları ve faiz ve ferileri ile hizmet bedelleri herhangi bir izne, hükme ve bildirime gerek olmaksızın ÜYE'nin kredi kartından mahsup edilerek tahsil edilebilecektir. ÜYE, bu hususu peşinen kabul eder.
+ 
+8.7.ÜYE, kiralama işlemini yapmış olduğu bölge içerisinde aracı GetirAraç’a iade etmekle yükümlüdür. GetirAraç kiralanan aracın hangi bölge içerisinde teslim alınıp iade edileceğine ilişkin Hizmet Bölgesi Mobil Uygulama üzerinden ÜYE’lere iletmektedir. Güveni kötüye kullanma şüphesinin varlığı halinde GetirAraç işbu Sözleşme’yi hiçbir ihbara, ihtara veya hükme lüzum olmaksızın tek taraflı olarak feshetme ve yasal yollara başvurma hakkına sahiptir. Aracın Hizmet Bölgesi içerisinde iade edilmemesi veya makul şüphe ile kiralama işleminin GetirAraç tarafından sonlandırılması halinde araç hizmet bölgesine geri getirilinceye kadar yapılacak tüm masraflar (çekici hizmeti, yakıt, geçiş ücretleri vs.) ve her türlü zarar ÜYE tarafından karşılanacaktır.
+ 
+8.8.GetirAraç kendi takdirine bağlı olarak özellikli hizmet bölgelerinde farklı fiyat uygulamasına gidebilir. Müşteri’nin aracı iade edeceği hizmet bölgesi indirimli ya da zamlı bölge olabilir. GetirAraç özellikli hizmetb bölgelerinin sınırları ile indirim ve zam oranlarını tek taraflı olarak belirleme, değiştirme ya da dilerse kaldırma hakkına sahiptir. Fiyat farklılıkları oluşabilecek hizmet bölgesi lokasyonları mobil uygulamadaki harita üzerinen tespit edilebilecektir. Özellikli hizmet bölgelerindeki fiyat uygulamasının kampanyalar ile çakışması halinde kampanyalı ücret hesaplandıktan sonra özellikli hizmet bölgesine ilişkin fiyatlandırma uygulanır.
+ 
+8.9.ÜYE, GetirAraç’ın yazılı izni olmadan araçta hiçbir değişiklik yapılmayacağını kabul ve taahhüt eder. Aksi halde eski hale getirme giderlerinden ve aracın uğradığı zararlardan ÜYE sorumludur.
+ 
+8.10.ÜYE, Araç içine güvenlik sebebiyle yerleştirilmiş olan GPS vb. sistemlere herhangi bir şekilde müdahalede bulunmayacağını, cihazın ayarlarını değiştirmeye, cihazı araçtan sökmeye veya kablolarını kesmeye çalışmayacağını taahhüt eder. Söz konusu fiiller GetirAraç tarafından tespit edilebilmekte olup güveni kötüye kullanma şüphesinin varlığı (GetirAraç'ın takdirine bağlı olarak) halinde GetirAraç işbu Sözleşme’yi hiçbir ihbara, ihtara veya hükme lüzum olmaksızın tek taraflı olarak feshetme ve yasal yollara başvurma hakkına sahiptir. 
+ 
+8.11.ÜYE aracın her zaman ¼ (çeyrek) deponun üzerinde ve araca uygun yakıtla bulunmasını ve iade esnasında ¼ (çeyrek) depodan az yakıtla geri bırakılmamasını sağlamakla yükümlüdür. Aksi takdirde GetirAraç’ın yakıt dolum işlemi kapsamında katlanmak zorunda kaldığı masrafları Mobil Uygulama’da belirtilen hizmet bedeli adı altında ÜYE’den tahsil etme hakkı saklıdır.
+ 
+8.12.Araç içinde sigara içilmesi Sözleşme ihlali sayılacak olup ÜYE aracın içinin ve dışının temiz ve düzenli olarak, bırakılmasını sağlamakla yükümlüdür. Aynı şekilde Araç içerisinde evcil hayvan taşınması durumunda da kiralanan Araç, diğer ÜYE’lerin kullanımına engel olmayacak şekilde (temiz, tüy vs. arınmış olarak) bırakılmalıdır. Aksi takdirde ÜYE, Mobil Uygulama içerisinde belirtilen araç ile ilgili oluşacak temizlik bedellerini ve kirlilikten dolayı oluşabilecek diğer masrafları ödemekle yükümlüdür.
+ 
+8.13.ÜYE, kendisi tarafından sağlam ve iyi durumda teslim alınan araçta, kendisinden kaynaklı kullanım hatası ve/veya dikkatsizlik, tedbirsizlik v.b. nedenlerle (sayılanlarla sınırlı olmaksızın, hatalı vites değiştirilmesi nedeni ile oluşan şanzıman arızası, aracın altının vurulması nedeniyle ortaya çıkan hasarlar, uyarı ışığı yanmasına rağmen aracın kullanılmaya devam edilmesi nedeniyle oluşan hasarlar, lastik ve jant gibi parçaların uğradığı hasarlar, yakıt kaynaklı hasar ve arızalar, debriyaj seti değişimi vb.) oluşan her türlü mekanik ve elektrik dâhil olmak üzere tüm zarar ve ziyanları ödemeyi kabul ve taahhüt eder.
+ 
+8.14.ÜYE, tarafından Mobil Uygulama’da tanımlanan ÜYE’ye ait kredi kartının kiralama işlemi esnasında ÜYE tarafından silinmesi veya kredi kartının kiralama bedelini karşılama kabiliyetinin ortadan kalktığının tespit edilmesi halinde ÜYE, GetirAraç'a kiraya konu araca nerede olursa olsun ön uyarıya, izne veya hükme gerek kalmadan derhal geri alma ve el koyma ve kira işlemini bitirme yetkisi tanır. ÜYE bu konuyla ilgili olarak aracın kiralama işleminin bitirilmesi sebebiyle GetirAraç’tan veya Mobil Uygulama’dan hiç bir ad altında talepte bulunmayacağını kabul ve beyan eder.
+ 
+8.15.ÜYE tarafından teslim alındıktan sonra ÜYE ve/veya herhangi bir 3. Şahıs tarafından araç ile yasalara aykırı hareket edilmesi veya aracın ÜYE’nin kusurundan kaynaklanan nedenlerle herhangi bir suça karışmış olması nedeniyle veya ÜYE’nin sorumlu olduğu herhangi bir nedenle araç kaydına resmi makamlar tarafından tedbir konulması ve/veya aracın yediemine ve/veya GetirAraç’a teslim edilmesi halinde hiçbir ihbara, ihtara veya hükme gerek kalmaksızın kira ilişkisi kendiliğinden sona erer. Bu durumda ÜYE, GetirAraç’ın veya Mobil Uygulama’nın var ise çekici, nakliye, otopark, teslimat, ceza, vergi, harç ve sayılanlarla sınırlı olmaksızın bu nedenle uğrayacağı doğrudan ve/veya dolaylı bütün zararları ile birlikte ayrıca kiralama ilişkisi sona erse/Sözleşme fesih olsa dahi, tedbirin devam ettiği sürece oluşacak o araca ait rayiç kira bedelini nakden ve defaten ödeyeceğini kabul ve taahhüt eder. Ayrıca bu nedenlerle araca resmi makamlar tarafından el konulması/aracın müsaderesine karar verilmesi durumunda ÜYE aracın el koyma / müsadere tarihindeki rayiç bedelini de GetirAraç’a derhal ödemekle yükümlüdür. Resmi mercilerce araç üzerine konulan tedbirler nedeniyle aracın satılamaması durumunda, tedbirin kaldırılması amacıyla resmi mercilere verilmesi gereken teminat, banka teminat mektubu veya nakit blokaj masrafları ve diğer her türlü masraflardan ÜYE sorumludur. GetirAraç, bu hallerin herhangi birinin varlığı durumunda işbu Sözleşme’yi haklı nedenle ve tek taraflı olarak feshetme hakkına sahiptir.
+ 
+8.16.Araç içerisinde hayvan taşımak ve nakletmek yasaktır. Bu durumun tespiti halinde ÜYE’ye 9.4. maddede yer alan ücret yansıtılacaktır.
+
+9.SİGORTA VE SORUMLULUK
+ 
+9.1.İşbu Sözleşme kapsamında kiralanan/kiralanacak Araç/lar/ın Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası, GetirAraç tarafından belirlenecek limit ve teminat kapsamını haiz İhtiyari Mali Mesuliyet, Ferdi Kaza ve Deprem / G.L.K.H.N.H.T (Grev, Lokavt, Kargaşalık, Halk Hareketleri, Kötü Niyetli Hareketler, Terör) /Sel/Su Baskını teminatlarını içeren Katastrofik Kasko Sigortası GetirAraç tarafından yaptırılacaktır. ÜYE, kiralanan Araç’ın hasarlanması/kazaya karışması halinde Mobil Uygulama’da belirtilen Hasar Yönetim Bedeli kadar bedeli hasar yönetim işlemleri kapsamında ödemekle yükümlüdür. Bu bedel azami olarak belirlenmiş olup tutarın tespiti hasarın niteliğine bağlı olmak üzere değişebilir. GetirAraç işbu bedeli belirleme konusunda yetkilidir. Oluşan hasar/zararda ÜYE’nin hiçbir kusurunun bulunmaması ve bu durumun Madde 9.4’de yer alan belgelerden anlaşılması halinde ÜYE’den Hasar Yönetim Bedeli tahsil edilmeyecektir. Deprem / G.L.K.H.N.H.T /Sel/Su Baskını nedeniyle araca (katastrofik kasko sigorta poliçesinin teminatı ve/veya limiti dışında kalan haller), gerek diğer motorlu kara nakil araçlarına ve gerekse sürücüye ve/veya üçüncü şahıslara karşı, kira konusu motorlu kara nakil araçlarının karıştığı kazalar nedeniyle (trafik, ihtiyari mali mesuliyet, ferdi kaza sigorta poliçelerinin teminatları ve/veya limitleri dışında kalan haller) sürücüye, diğer motorlu kara nakil araçlarına ve üçüncü şahıslara karşı doğması muhtemel maddi ve manevi tazminatlarda dahil olmak üzere her türlü zarardan ÜYE sorumlu olacaktır. GetirAraç’ın sigorta teminat kapsamı dışında veya limitlerin üstünde kalan herhangi bir zararı tazmin etmesi halinde ÜYE, GetirAraç’ın yapmış olduğu ödemeyi, ödeme tarihinden itibaren Türkiye Cumhuriyeti Merkez Bankası tarafından belirlenen avans faizi oranında işleyecek temerrüt faizi ile birlikte GetirAraç’a derhal ödemeyi kabul ve taahhüt eder.
+ 
+9.2.GetirAraç, ÜYE’ye kiralanan aracın uğrayacağı hasarların onarımı için; hasar/olay tarihinde yürürlükte olan Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından yayınlanan “Kara Araçları Kasko Sigortası Genel Şartları” (kısaca “Kasko Sigortası Genel Şartları” olarak anılacaktır) içeriği:
+a) Aracın karayolunda veya demiryolunda kullanılabilen motorlu, motorsuz araçlarla çarpışması, 
+b) Gerek hareket gerek durma halinde iken kullanıcının iradesi dışında araca ani ve harici etkiler neticesinde sabit veya hareketli bir cismin çarpması veya aracın böyle bir cisme çarpması, devrilmesi, düşmesi, yuvarlanması gibi kazalar,
+c) Üçüncü kişilerin kötü niyet veya muziplikle yaptıkları hareketler, ile fiil ehliyetine sahip olmayan kişilerin yol açacağı zararlar,
+d) Aracın yanması,
+e) Aracın veya araç parçalarının çalınması veya çalınmaya teşebbüs edilmesi riskleri dahil ancak Kara Araçları Kasko Sigortası Genel Şartlarının Ek Sözleşme ile Teminat Kapsamına Dahil Edilebilecek Zararlar başlıklı A.4. maddesinde sayılan teminatlar/haller hariç olmak üzere geçerli kabul edilerek işbu Kasko Sigortası Genel Şartları’na uygun olarak Hasar Onarım Güvencesi uygulanacaktır. Hasar Onarım Güvencesi, limiti hasar/olay tarihindeki araç rayiç değerini geçmemek kaydıyla, hasar olay/tarihi itibariyle yürürlükte olan Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından yayınlanan Kasko Sigortası Genel Şartları’nda belirlenen limitler ve teminat kapsamı dahilinde, hasar nedeniyle kiralanan Araç’ta oluşan hasar ve zararların karşılanmasını sağlar. Hasar Onarım Güvencesi limiti, hasar/olay tarihindeki araç rayiç değerini geçmemek kaydıyla, hasar olay/tarihi itibariyle yürürlükte olan Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından yayınlanan Kasko Sigortası Genel Şartları’nda belirlenen limitler dahilinde olup, rayiç değerin belirlenmesinde, hasar olay/tarihi itibariyle yürürlükte olan ve Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından yayınlanan rayiç değerlere ilişkin liste esas alınır. Hasar/olay tarihinde yürürlükte olan Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından yayınlanan Kasko Sigortası Genel Şartları kapsamı ve/veya limitleri dışında kalan her türlü zarar ve tazminatlar ile değer kaybı, kazanç kaybı vs. zararlardan ÜYE sorumludur. Hasar ve zararın güvence kapsamında olup olmadığının tayininde GetirAraç yetkili olup, ÜYE bu tespite itiraz etmeyeceğini kabul, beyan ve taahhüt eder. Taraflar bu hususta mutabıktır. GetirAraç dilerse, bahse konu Hasar Onarım Güvencesinden kaynaklanan kendisine ait risklere karşı sigorta poliçesi yaptırmaya yetkili olup, ÜYE bu poliçe ve teminat kapsamından yararlanmayı/yararlandırılmayı talep edemez. Araç’ın kiralama işlemini gerçekleştiren ÜYE dışında bir başka kimse tarafından kullanılması/kullandırılması durumunda işbu Sözleşme’de yer alan sigorta ve teminatlara ilişkin tüm hükümler geçersiz olacaktır. Bu durumda, kiralama işlemi esnasında oluşan (bunlarla sınırlı olmamakla beraber) tüm hasar/arıza/zarar maliyetlerinden kiralama işlemini gerçekleştiren ÜYE sorumlu olacaktır.
+ 
+9.3.Hasar/olay tarihinde yürürlükte olan Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından yayınlanan Kasko Sigortası Genel Şartları kapsamında olması kaydıyla, kiralanan aracın hasar onarım bedeli Mobil Uygulama’da belirtilen tutarı aşmayan kasko hasarlarında ÜYE beyanı, sürücü ehliyeti ve resim ile hasar onarım talebi yapılabilecektir. GetirAraç’ın işbu limitlerde değişiklik yapma hakkı saklıdır. Araç anahtarının kaybolması ve çalınması nedeni ile aracın güvenliğini sağlamak için anahtarın kopyalanması, alarm ve immobilizerin yeniden kodlanması veya kilit sisteminin değiştirilme maliyeti ÜYE’nin sorumluluğundadır. Ayrıca Araç içinde veya üzerinde hava yastığı, radyo-teyp, jant kapağı, anten, stepne, arma, silecek kolu, benzin depo kapağı vs. gibi parçaların çalınması halinde ve hasar onarım bedelinin Mobil Uygulama’da belirtilen tutarı aşması halinde resmi kurumlardan alınacak belgelerin temini ve ibrazı zorunlu olup bu tip hasarlar beyanla karşılanmayacaktır. 
+ 
+9.4.Sigortaların ve Hasar Onarım Güvencesinin geçerli olabilmesi için, tek taraflı kazalarda sadece aracın, birden fazla aracın karıştığı kazalarda da tüm araçlara ait belgelerle birlikte trafik kaza raporu, alkol raporu, ehliyet, ruhsat, trafik sigorta poliçesi gibi belgelerin asılları veya trafik kaza raporu, alkol raporu için tasdikli, diğer evraklar için fotokopileri kaza tarihinden itibaren en geç iki (2) iş günü içerisinde (kaza yapan araçların kullanıcıları tarafından düzenlenen maddi hasarlı kaza tespit tutanakları aslı veya tasdikli fotokopileri 1 (bir) iş günü içerisinde) tam ve eksiksiz olarak GetirAraç’ın istediği servise teslim edilecektir. Hasarlı araçların onarımı GetirAraç’ın belirleyeceği servislerde yine GetirAraç tarafından belirlenecek orijinal ya da muadil parça ile yapılacaktır. ÜYE’nin hasar onarımlarını bizzat yaptırma hakkı olmadığı gibi bu konuya ilişkin yapılan teklifler de GetirAraç tarafından dikkate alınmayacaktır. ÜYE’nin işbu Sözleşme’ye aykırı şekilde GetirAraç’ın bilgisi dışında hasar onarım işlemlerini yaptırması durumunda GetirAraç‘ın yapılan onarımı uygun görmemesi hakkı saklı olup aracın uygun hale getirilmesi için yapılacak tüm masraflar ÜYE’den tahsil edilecektir.
+Bu rapor ve belgeler her türlü hasarda sigortalardan ve hasar onarım güvencesinden yararlanabilmek için gerekli olup, alınmamaları veya zamanında teslim edilmemeleri halinde hasar/zarar bedeli ve tamiri için geçen sürede işleyen kira bedelleri ÜYE tarafından karşılanacaktır. Ayrıca raporları alınmış olsa dahi, sigorta şirketinin veya GetirAraç’ın sahte rapor, alkollü veya ehliyetsiz araç kullanılması vb. herhangi bir sebeple ödeme yapmayı kabul etmediği veya sigorta veya hasar onarım güvencesi teminat kapsamı ve limiti dışında kalan hallerde, hasar/zarar bedeli ve tamiri için geçen sürede işleyen kira bedelleri ve kendisine tahsis edilen aracın kira bedeli ÜYE tarafından ödenecektir.
+
+ÜYE’nin %100 kusurlu olduğu kaza hallerinde, hasar maliyeti ve kaza sebebiyle GetirAraç ve 3. kişiler nezdinde oluşan tüm zarar ve masraflar ÜYE’nin sorumluluğunda olup, ilgili bedeller ÜYE’ye faturalandırılacaktır.
+
+Aşağıdaki durumlarda Sigortalar ve Hasar Onarım Güvencesi geçerli olmayıp araçta ve 3. kişilerde oluşan her türlü zarar masraflarda Üye sorumlu olacaktır.
+
+Yasal hız sınırlarına uymamak ve tehlikeli araç kullanılması,
+Ters yöne girmek, kırmızı ışıkta geçmek vb. gibi trafik kurallarının ihlal edilmesi,
+Hasar oluşmaması için gerekli koruma ve kollama önlemlerinin alınmaması.
+
+ÜYE, aşağıdaki tabloda yer alan işlemlere ait bedellerin kendisi tarafından karşılanacağını kabul ve taahhüt eder:
+İşlem Tutar
+Hatalı Park Sebebi İle Çekim 1650 TL + KDV
+Yakıt suistimali 6500 TL + KDV
+Alkol, Adli Vaka vb. İşlemler Sonrası Yediemine Çekilen Araç 10000 TL + KDV
+Anahtar Kaybı (Anahtar Bedeli Hariç ) 2000 TL + KDV
+Kusurlu Kazalar (Tutanak İle Belgelenen ÜYE’nin %100  Kusurlu olduğu Kazalar) 6500 TL + KDV
+Araç Temizliği Standart 750 TL + KDV
+Özel Araç Temizliği Gerektiren Durumlar 2500 TL + KDV
+Aracın Hizmet Bölgesi Dışından Getirilmesi (Çekici Bedeli Hariç) 3500 TL + KDV
+Plaka Kaybı (İşlem Masrafları Dahil) 2000 TL + KDV
+Ruhsat Kaybı (İşlem Masrafları Dahil) 3000 TL + KDV
+Plaka ve Ruhsat Kaybı 4000 TL + KDV
+Farı Açık Bırakılan Araç 1000 TL + KDV
+El freni çekme, drift yapma, makas atma, kötü kullanım (araçta oluşan zararlar hariç) 12000 + KDV
+Standartlara uygun fotoğraf çekilmemesi (madde 11.4) 417 TL + KDV
+Ceza hizmet bedeli (madde 8.6) 50 TL + KDV
+Telematik cihazına zarar verilmesi 25000 TL + KDV
+Araç içinde sigara içilmesi 3000 TL + KDV
+ÜYE'nin tek taraflı kazalarda kusurlu olması halinde alınacak hasar yönetim bedeli 6500 TL + KDV'ye kadar
+Araç içerisinde hayvan taşınması sonucu ortaya çıkan durumlarda 10000 TL + KDV
+Aracın uygunsuz ve trafik güvenliğini tehlikeye sokacak şekilde park edilmesi 500 TL + KDV
+ 
+9.5.ÜYE, Araç ÜYE’ye teslim edildikten sonra, araç ve parçalarının çalınmalarını önlemek amacıyla gerekli tedbirleri almakla yükümlüdür. ÜYE’nin, herhangi bir hırsızlık durumunda Araç’ın ruhsatını ve anahtarlarını iade etmesi ve hırsızlık olayı ile ilgili emniyet makamlarına gerekli başvuruyu yaparak buna dair resmi tutanağı ibraz etmesi gerekmektedir. Araç veya aracın herhangi bir parçasının, kirada iken çalınması durumunda gerekli olan bütün raporlar ÜYE tarafından temin edilerek GetirAraç’a ibraz edilecektir. Söz konusu raporların, ÜYE’den kaynaklı nedenlerle ÜYE tarafından olayın meydana geldiği tarihten itibaren 5 iş günü içerisinde verilmemesi veya olayın ÜYE’nın ihmal veya kusurundan kaynaklanması veya olayın vuku tarihinde yürürlükte olan Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği Kasko Sigortası Genel Şartları kapsamında olmaması durumunda (sayılanlarla sınırlı olmaksızın örnek olarak, araç üzerinde anahtar bırakılması ve/veya makbuz/fatura karşılığı olmaksızın aracın otopark/yıkama çalışanlarına teslimi, emniyeti suistimal vb. gibi hallerde) veya sigorta firmalarının hırsızlık olarak nitelendirmediği aşırma ve benzeri durumlarda ÜYE aracın veya araç parçalarının/donanımların güncel satın alma bedellerini derhal GetirAraç’a ödeyecektir. Bu ödemeye kadar geçen süre için ÜYE işleyen kira bedelini ödemekle yükümlüdür. Ayrıca GetirAraç’ın uğradığı zararları talep etme hakkı saklıdır.
+ 
+9.6.GetirAraç veya Mobil Uygulama, hiçbir şekilde ÜYE tarafından Araç’ta taşınan ya da bırakılan herhangi bir malın kaybından ya da hasar görmesinden ya da çalınmasından veya aşırılmasından sorumlu tutulamaz. ÜYE, GetirAraç’ı ve Mobil Uygulama’yı bahsedilen türde bir kayıp, çalınma ya da hasar sonucu meydana gelebilecek dava, şikayet ve zarardan şimdiden gayrikabili rücu olarak ibra eder.
+ 
+9.7.GetirAraç veya Mobil Uygulama, aracın üreticisi olmayıp, aracın ya da yedek parçalarının üretim hatası nedeniyle meydana gelebilecek zarar, kayıp ve tazminatlardan hiçbir şekilde sorumlu tutulamaz.
+ 
+9.8.Kiralanan araçların kiralandıkları süre içinde 3. kişilere verdikleri zararlardan doğacak her türlü maddi-manevi tazminat ve giderlerin GetirAraç tarafından yaptırılan Zorunlu Trafik Sigortası ve İhtiyari Mali Mesuliyet Sigortası limitleri ve/veya teminatı kapsamında karşılanmaması halinde, bu tazminat ve giderlerden ÜYE sorumlu olacağını kabul ve taahhüt eder.
+ 
+9.9.İşbu Sözleşme kapsamında kiralanan araçlarla ilgili olarak yasalarda tanımlanan "işleten" sıfatı ÜYE'ye ait olup, mer'i mevzuatta tanımlanan "Araç İşleten Sorumluluğu"na ilişkin tüm borç ve yükümlülükler araçların teslimini müteakip kira süresince ÜYE’ye intikal edecektir. Araçların üçüncü kişilere ve/veya motorlu taşıtlara ve/veya çevreye vereceği tüm maddi ve manevi zararlardan ÜYE tek başına sorumludur. Bu sebeple GetirAraç’ın herhangi bir ihmal veya kastı olmaksızın maruz kalıp, ödemek zorunda kalacağı tüm zararları ÜYE derhal tazmin edecektir. 
+ 
+9.10.Sözleşme sona ermiş olsa dahi ÜYE’in kira süresi içinde Üye’nin kusurlu hareketi ile meydana gelen zararlar nedeniyle sorumluluğu devam edecektir.
+ 
+9.11.Araçlardan herhangi biri veya tamamının Üye’nin ihmali veya kusurlu hareketiyle hizmet dışı kalmasından dolayı oluşabilecek zararlardan GetirAraç veya Mobil Uygulama sorumlu değildir.
+
+10.ARAÇLARIN KULLANILAMAMASI DURUMU
+ 
+10.1.Kiralanan araç kaza nedeniyle hareket ettirilemeyecek düzeyde hasar görürse ÜYE, Madde 9.4’de belirtilen gerekli evrakları hazırlayıp, yönlendirilen yol yardım ekibine aracı teslim etmekle yükümlüdür. Hasarlı araçlar yol yardım veya çekiciye teslim edilene kadar ÜYE aracın yanından ayrılmayacak olup, araç yol yardım ekiplerince teslim alınana kadar kiralama işlemi sonlandırılmayacaktır. ÜYE’nin sorumluluğunu yerine getirmediği durumlarda, doğacak tüm zararlar ÜYE’ye rücu edilecektir
+ 
+10.2.Kiralanan aracın çalınması durumunda ÜYE, Madde 9.4’te belirtilen gerekli evrakları hazırlayıp, yönlendirilen GetirAraç temsilcisine teslim etmekle yükümlüdür.
+ 
+10.3.ÜYE, Araç’ın üzerine veya herhangi bir kısmına hiçbir yazı, logo vs. materyali yapıştıramaz, takamaz, asamaz veya farklı şekilde yerleştiremez. . Aracın bu şekilde kullanılmasına ilgili makamlarca izin verilmemesi kira bedelinin azaltılması veya ödenmemesi sebebi teşkil etmeyecek olup bu halde de ÜYE kira bedellerini ödeyecektir. İşbu yazı ve logolardan kaynaklanacak ilan ve reklam vergileri ÜYE’ye ait olup, ÜYE tarafından ödenecektir. Araçların iadesi sırasında işbu yazı ve logolar ÜYE tarafından sökülecek ve araçlar eski hale getirilerek temiz olarak iade edilecektir. GetirAraç, ÜYE tarafından firma tanımlayıcı yazı ve logoların, araçlara yapıştırılması, takılması, asılması ve sair surette kullanması nedeniyle uğrayacağı her türlü zararı ÜYE’ye rücu etme hakkına sahiptir.
+ 
+11.KİRALANAN OTOMOBİLLERİN İADESİ
+ 
+11.1.ÜYE, aracı, stepnesini, anahtarını, tüm lastikleri, araca ait belgeleri, aksesuar, ek ürün ve teçhizatı ile avadanlıklarıyla birlikte teslim aldığı gibi, eksiksiz ve hasarsız bir şekilde hizmet bölgesi içerisinde iade ve teslim edecektir.
+ 
+11.2.ÜYE aracı, araca ait belgeleri, anahtarı, aksesuar, ek ürün ve teçhizatı hasarsız, eksiksiz bir şekilde aldığı gibi teslim etmek zorundadır. Aracın iadesi esnasında tespit edilen olağan kullanım dışında oluşmuş, her türlü hasar ve zarar ile eksikliklerden ÜYE sorumlu olup, ÜYE, GetirAraç tarafından tespit edilecek tutarı derhal ödemekle yükümlüdür. Ayrıca GetirAraç, araçtaki hasar ve eksiklikleri iade tarihinden sonra da inceleyerek ÜYE’e bildirme hakkına sahiptir. Araçlarda olağan kullanım dışında oluşmuş, her türlü hasar ve zarardan ÜYE sorumlu olacaktır.
+ 
+11.3.ÜYE’nin işbu Sözleşme’nin herhangi bir maddesine uymaması, özellikle aracı kira süresi sonunda teslim etmemesi halinde ÜYE, GetirAraç’a bahsedilen araca nerede olursa olsun ve ön uyarıya, izne veya hükme gerek kalmadan derhal geri alma ve el koyma yetkisi tanır. ÜYE, aracın GetirAraç tarafından geri alınması/el konulması sırasında meydana gelebilecek hasar ve harcamaları ödemekle yükümlüdür. GetirAraç, aracın geri alınması/el konulması sırasında araçta bulunan nesne veya maddelerin kaybından ve hasarından sorumlu değildir.
+Gecikme süresine ilişkin kira bedelinin tahsil edilmiş olması durumunda dahi Kira Sözleşmesinin uzadığı veya belirsiz süreli hale geldiği şeklinde yorumlanamaz.
+ 
+11.4.ÜYE, kiralanan aracın iade sürecini kiralama işlemini başlatmış olduğu Mobil Uygulama üzerinden yönetecektir. İade işleminin tamamlanabilmesi için ÜYE, kendisine Mobil Uygulama üzerinden iletilen tüm talimatları eksiksiz olarak yerine getireceğini kabul, beyan ve taahhüt eder. ÜYE’nin sorumluluğu ilgili araç iade amacıyla bırakıldığı yerden GetirAraç tarafından teslim alınana kadar veya başka bir kira işlemine konu olana kadar devam etmektedir. Bu sebeple ÜYE, iade sürecinde Mobil Uygulama üzerinden verilen talimatlar çerçevesinde kiraya konu aracın 5 tarafının (ön, arka, sağ, sol ve iç kısım) yeterli ışık düzeyinde, net ve araç cephesinin tamamı görünecek şekilde fotoğrafını çekmeli ve sisteme yüklemelidir. Fotoğraf yükleme işleminin yapılmamış olması veya yüklenen fotoğrafların yukarıda belirtilen standartlarda olmaması sebebiyle kiralama işlemi sonrasında araçta tespit edilecek hasarlardan ÜYE sorumlu olacaktır. Hasar sorumluluğuna ek olarak, ayrıca, ÜYE’nin iş bu maddede düzenlenen standartlara aykırı olacak şekilde hareket etmesi halinde, ÜYE, 500 TL cezai şartın sisteme kayıtlı kartından tahsil edileceğini kabul ve taahhüt eder.
+ 
+11.5.ÜYE, Mobil Uygulama’da yer alan kiralama başlatma butonuna tıklayarak, araca fiziken erişim sağladığında butonda belirtilen plaka numaralı aracı teslim almış sayılacak olup yine aynı şekilde Mobil Uygulama’da yer alan prosedürleri tamamlayıp “kiralamayı bitir” butonuna tıklayarak aracı iade edecektir. Kiralama süresi bu işlemler tamamlanıncaya kadar devam edecek olup ÜYE bu durumu peşin olarak kabul eder.
+ 
+11.6.ÜYE, kiralamayı sonlandırırken aracı diğer müşterilerin ulaşabileceği müsait bir durumda ve yerde bırakılmasından, aracın son konumuna ait fotoğrafın yeterli ışık düzeyinde ve net olmasından, aracın konumunun anlaşılabilir olmasından ve açık adresinin detaylı olarak yazılmasından sorumludur. Aksi takdirde GetirAraç diğer müşterilerin kiralamayı başlatamaması sebebiyle oluşacak kira ücreti kaybını, ÜYE’den tahsil etmeye yetkilidir.
+ 
+11.7.Aracın trafik kurallarına uygun olmayan şekilde park edilmesi sebebiyle oluşacak tüm zarar ve hasarlar ÜYE’nin sorumluluğundadır.
+
+12.FESİH HAKKI, SÖZLEŞMENİN SONA ERMESİ VE CEZAİ ŞART
+ 
+12.1.İşbu Sözleşme, ÜYE’nin kabul tarihinde yürürlüğe girecek olup, Mobil Uygulama ÜYE tarafından kullanılmaya devam ettiği sürece yürürlükte kalacaktır. GetirAraç, tamamen kendi takdirine bağlı ve tek taraflı olarak, işbu Sözleşme’yi, uygun göreceği herhangi bir zamanda, Mobil Uygulama üzerinden ilan ederek değiştirebilir.
+
+İşbu Sözleşme’nin sona erdirilmesi durumunda, sona erme tarihinde ÜYE’ye kiralanmış araç var ise, Sözleşme bahse konu aracın iade tarihinde iade edilmesi ile birlikte başkaca bildirime gerek olmaksızın kendiliğinden sona erer. İşbu Sözleşme sona erse dahi taraflar işbu Sözleşmeden kaynaklanan hak ve alacaklarını diğer taraftan talep etmeye yetkilidir.
+ 
+12.2.Taraflardan her biri, diğer Taraf’ın işbu Sözleşme ile yükümlendiği taahhütleri ihlal etmesi ve noter vasıtası ile gönderilecek ihtarname ile verilecek 10 günlük sürede de ihlali gidermemesi durumunda Sözleşme’yi derhal haklı nedenle ve herhangi bir ek bildirime gerek olmaksızın feshedebilir ve GetirAraç ÜYE’nin Mobil Uygulama’ya üyeliğini askıya alabilir ya da ÜYE’yi üyelikten çıkarabilir.
+ 
+12.3.ÜYE’nin GetirAraç veya Mobil Uygulama alacaklarından herhangi birini zamanında tam ve eksiksiz olarak ödememesi veya aracın herhangi bir yerde terk edilmiş bulunması (GetirAraç’ın takdirine bağlı olarak) veya güveni kötüye kullanma şüphesinin varlığı (GetirAraç’ın takdirine bağlı olarak) halinde işbu Sözleşme hiçbir ihbara, ihtara veya hükme lüzum olmaksızın kendiliğinden fesih olur ve GetirAraç ÜYE’nin Mobil Uygulama’ya üyeliğini askıya alabilir ya da ÜYE’yi üyelikten çıkarabilir.
+ 
+12.4.Taraflardan birini etkileyen mücbir sebebin 7 (yedi) günden fazla sürmesi halinde, diğer Taraf Sözleşme’yi derhal feshetme hakkına sahiptir.
+ 
+12.5.İşbu Sözleşme’nin feshi halinde, fesih bildiriminin tebliğ alınmasından itibaren ÜYE en geç 1 saat içerisinde aracı iade yerinde GetirAraç’a teslim etmekle yükümlüdür. Teslimatı yapmadığı taktirde hiçbir ihbara, ihtara veya karara gerek olmadan bulunduğu yerde araca GetirAraç’ın el koyarak teslim almasını ÜYE şimdiden gayrikabili rücu olarak kabul eder. ÜYE, GetirAraç’ın el koyma hakkını kullanması nedeniyle GetirAraç’tan hiçbir hak talebinde bulunmayacağını, tüm dava, şikayet ve sair haklarından feragat ettiğini kabul, beyan ve taahhüt eder.
+ 
+12.6.Aracın ÜYE tarafından teslim edilmesi veya GetirAraç tarafından el konularak teslim alınması gününe kadar Taraflar işbu Sözleşme’den doğan tüm yükümlülük ve sorumluluklarının aynen devam edeceğini kabul ve taahhüt eder.
+ 
+12.7.Araç ister ÜYE tarafından teslim edilsin, isterse GetirAraç tarafından el konularak teslim alınsın aracın teslim edildiğine veya teslim alındığına bakılmaksızın ÜYE kira ve mesafe ücretlerinin tamamını, doğacak KDV’si ve Türkiye Cumhuriyeti Merkez Bankası avans faizi oranında temerrüt faizi ile birlikte ödemeyi kabul ve taahhüt eder. Ayrıca GetirAraç veya Mobil Uygulama her türlü zarar-ziyanı ve mahrum kalacağı kâr karşılığı tazminatı ÜYE’den talep edebilir.
+ 
+12.8.ÜYE'nin karayollarında belirlenen hız sınırlarını aştığının tespit edilmesi halinde, ÜYE'nin üyeliği tamamen iptal edilebilir veya uygun görülen süre boyunca askıya alınabilir.
+ 
+12.9.ÜYE'nin Araç'ta hasara sebep olduğunun tespit edilmesi halinde, ÜYE'nin üyeliği tamamen iptal edilebilir veya uygun görülen süre boyunca askıya alınabilir.
+ 
+12.10.ÜYE’nin işbu Sözleşme’ye, ilgili mevzuata veya iyi niyet/ahlak kurallarına aykırı davrandığının tespiti halinde, ÜYE’nin üyeliğinin askıya alınma veya ÜYE’nin Mobil Uygulama’dan tamamen çıkarılma hakkı saklıdır.
+ 
+12.11.İşbu Sözleşme süresinin sona ermesi veya feshedilmesi veya kurumsal üyeliklerde ÜYE kullanıcının iş akdinin sona ermesi durumunda dahi, Sözleşme süresi içerisinde gerçekleştirilen kiralamalar ile ilgili ÜYE ve Kullanıcının sorumluluğu devam eder.
+ 
+13.DEVİR, TEMLİK, ALT ŞİRKET, HAPİS YASAĞI
+ 
+Taraflardan hiçbiri diğerinin yazılı onayını almadan işbu Sözleşme’yi, Sözleşme’den kaynaklanan hak, alacak ve yükümlülüklerini iştiraklerine, bağlı şirketlerine veya grup şirketleri haricinde başkasına devir ve temlik edemez. ÜYE, GetirAraç’ın yazılı onayını almadan kendisine teslim edilen aracı hiçbir şekilde başkasının kullanımına tahsis edemez, teminat olarak gösteremez, kiralayamaz, üzerinde hapis hakkı kullanamaz veya buna benzer başka işlem yapamaz. Araç, yurt dışına çıkarılamaz.
+ 
+14.GİZLİLİK İLKESİ VE BİLDİRİMLER
+ 
+TARAFLAR, işbu Sözleşme uyarınca vakıf olacakları diğer tarafa ait her türlü ticari, mesleki bilginin ve Kişisel Verinin gizli olduğunu kabul eder ve bu bilginin söz konusu taraflar ya da çalışanları tarafından üçüncü kişilere Sözleşme sırasında ve sonrasında ifşa edilmemesini taahhüt ederler. Bu gizlilik taahhüdü işbu Sözleşme sona erse veya iptal edilse dahi geçerliliğini muhafaza eder. Taraflar, gizlilik yükümlülüğüne aykırı davranmaları durumunda diğer tarafın maruz kaldığı her türlü zararını karşılayacağını kabul ve beyan eder.
+
+15.KİŞİSEL VERİLERİN KORUNMASI
+ 
+15.1.GetirAraç, işbu Sözleşme kapsamında vakıf olduğu Kişisel Verileri, 6698 sayılı Kişisel Verilerin Korunması Kanunu ve yürürlükteki mevzuat uyarınca getirilen tüm kural ve yükümlülüklere uygun şekilde koruyacağını, bu kapsamda, ÜYE’ye dair edindiği her türlü Kişisel Veri’nin korunmasına ve işlenmesine dair ilke ve yükümlülüklere uyacağını, bunların ihlali halinde bizzat sorumlu olacağını peşinen kabul ve taahhüt etmektedir.
+ 
+15.2.Bu kapsamda GetirAraç işbu Sözleşme konusu araç kiralama hizmetinin ifası için edinilmesi, işlenmesi veya hizmet aldığı üçüncü şahıs ve/veya kuruluşlar ile paylaşması zorunlu olan ÜYE’lere ait kişisel veriler dışında hiçbir şekilde ilgili ÜYE’nin önceden verilmiş açık rızası olmaksızın, sayılanlarla sınırlı olmamak üzere, Kişisel Verilerini işleyemez, amaçları dışında kullanamaz, üçüncü kişilere aktaramaz.
+ 
+15.3.GetirAraç, işbu Sözleşme kapsamında hukuka uygun bir şekilde edindiği ve işlediği Kişisel Verilerin hukuka aykırı olarak işlenmesini, erişilmesini önlemek ve bu Kişisel Veri’lerin muhafazasını sağlamak amacıyla gerekli her türlü teknik ve idari tedbirleri almakla yükümlüdür.
+ 
+15.4.GetirAraç, ÜYE’ler ile ilgili öğrendiği Kişisel Verileri 6698 sayılı Kişisel Verilerin Korunması Kanunu hükümlerine aykırı olarak başkasına açıklayamaz ve işbu Sözleşme’de belirtilen hizmetlerinin sunulması amacı dışında kullanamazlar. Bu yükümlülük işbu Sözleşme’nin sona ermesi halinde dahi devam eder.
+ 
+15.5.GetirAraç, ÜYE’nin Kişisel Verilerinin kanuni olmayan yollarla başkaları tarafından elde edilmesi halinde, bu durumu derhal ÜYE’ye bildirecek, herhangi bir zarar oluşmaması veya mevcut zararın büyümesinin engellenmesi için Üye’e gerekli teknik ve idari tedbirler konusunda derhal destek verecektir. Bu kapsamda Kişisel Verileri Koruma Kurul’una yapılması gereken başvuru çerçevesinde ÜYE’nin talebi halinde, başvuru sürecinde ÜYE’e gerekli detaylı açıklamaları yazılı olarak sağlayacaktır.
+ 
+15.6.GetirAraç’ın ÜYE’nin Kişisel Verilerini koruma yükümlülüğüne aykırı fiili sonucunda ÜYE’nin tarafından bir talep ileri sürülmesi ve/veya zarara uğranıldığının iddia edilmesi ve bunun sonucunda herhangi bir şekilde ÜYE’nin sorumlu tutulması ve zarara uğraması halinde, ÜYE’nin uğradığı zarar dolayısıyla GetirAraç’a rücu edeceğini GetirAraç peşinen ve gayrikabili rücu olarak kabul ve taahhüt eder.
+ 
+15.7.GetirAraç tarafından işbu Sözleşme kapsamında kiralamaya sunulan araçlarda, aracın kapılarının Mobil Uygulama’da ile açılabilmesi, kilitlenebilmesi, aracın kat ettiği mesafenin hesaplanabilmesi vb. gibi Sözleşmeye konu hizmetin verilebilmesi ve gerekli diğer operasyonel işlemlerin ifası amacıyla araçlarda araç takip sistemi v.b ÜYE’nin kişisel verilerini toplayan ve kaydeden cihazlar bulunmakta olup, araçlar bahse konu sistemler ile izlenmekte ve araç konum ve km bilgileri kayıt altına alınmaktadır. GetirAraç işbu kayıtları güvenlik nedeni ile veya hukuki adli/idari işlemler/ soruşturmalar da kullanılmak üzere gerektiğinde resmi veya gayri resmi ilgili üçüncü kişilere/kurumlara ifşa edebilecektir.
+ 
+16.MÜNHASIR OLMAMA
+ 
+İşbu Sözleşme’deki hiçbir ifade taraflar arasında münhasırlık ilişkisi bulunduğuna işaret etmez. Taraflar, ÜYE’nin benzer hizmetleri üçüncü kişilerden sağlama hakkı olduğunu kabul ve beyan eder.
+ 
+17.YETKİ
+ 
+İşbu Sözleşme’nin yorumunda ve/veya işbu Sözleşme sebebiyle ve/veya taraflar arasında ortaya çıkacak olan tüm uyuşmazlıklarda Türk Hukuku uygulanacaktır.Taraflar, işbu Sözleşme’den doğan ihtilaflarda mevzuat çerçevesinde belirlenen parasal sınırlar dahilinde ÜYE ve GetirAraç’ın kayıtlı adresinin bulunduğu yerdeki tüketici hakem heyetlerinin, parasal sınırları aşan uyuşmazlıklarda ÜYE’nin ve GetirAraç'ın bulunduğu yerdeki tüketici mahkemelerinin yetkili olacağını kabul etmiştir. Uyuşmazlığın tüketici uyuşmazlığı olmaması halinde, İstanbul Merkez (Çağlayan) Mahkemeleri ve İcra Daireleri yetkili olacaktır.
+ 
+18.DEĞİŞİKLİK
+ 
+GetirAraç’ın işbu Sözleşme ve Üyelik koşullarında tek taraflı değişiklik yapma hakkı saklıdır. Bu değişiklikler Mobil Uygulama üzerinden ÜYE’lere bildirilecek ve ÜYE’lerin onayı alınacaktır. ÜYE’nin yapılan değişikliklere onay vermemesi halinde GetirAraç’ın işbu Sözleşme’yi derhal feshetme hakkı saklıdır.
+ 
+19.TEBLİGAT
+ 
+Taraflar, işbu Sözleşme’de ve Mobil Uygulama’da yazılı adreslerinin (ev, işyeri, e-posta vs.) kanuni tebligat adresleri olduğunu, adres değişikliği diğer tarafa 3 gün içinde Mobil Uygulama üzerinden bildirilmediği sürece bu adreslere yapılacak e-posta dahil tüm bildirimlerin kanunen geçerli tebligatın bütün hukuki sonuçlarını doğuracağını kabul, beyan ve taahhüt ederler.
+ 
+20.DAMGA VERGİSİ
+ 
+İşbu Sözleşmeden kaynaklanan Damga Vergisi ÜYE tarafından ödenecektir.
+ 
+21.FERAGAT SAYILMAMA
+ 
+Tarafların işbu Sözleşme’de tanınan herhangi bir hak veya yetkiyi kullanmaması ya da kullanmakta gecikmesi o hak veya yetkiden feragat ettiği anlamına gelmediği gibi, bir hak veya yetkinin tek başına veya kısmen kullanılması o veya başka bir hak veya yetkinin daha sonra kullanılmasını engellemez.
+ 
+22.SÖZLEŞMENİN BÜTÜNLÜĞÜ
+ 
+İşbu Sözleşme’de yer alan herhangi bir hükmün, herhangi bir nedenden dolayı geçersiz sayılması veya uygulanabilirliğinin kalmaması halinde, Sözleşme’nin diğer hükümleri yürürlükte kalacaktır.
+ 
+23.YÜRÜRLÜK
+ 
+23 Madde’den ibaret işbu Sözleşme bütün koşulları okunup ÜYE tarafından kabul edilmiştir. Sözleşme’nin bir sureti ÜYE’ye e-posta yolu ile gönderilmiştir.
