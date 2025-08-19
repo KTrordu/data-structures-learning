@@ -91,6 +91,54 @@ Node* maxValueNode(Node* node)
     return current;
 }
 
+int count_nodes(Node* root)
+{
+    if(root == NULL) return 0;
+    return 1 + count_nodes(root->left) + count_nodes(root->right);
+}
+
+void findNthNode(Node* root, int* currentCount, int n, int* result)
+{
+    if(root == NULL) return;
+
+    findNthNode(root->left, currentCount, n, result);
+
+    (*currentCount)++;
+    if(*currentCount == n)
+    {
+        *result = root->data;
+        return;
+    }
+
+    findNthNode(root->right, currentCount, n, result);
+}
+
+float findMedian(Node* root)
+{
+    if (root == NULL) return 0.0;
+
+    int totalNodes = count_nodes(root);
+
+    if(totalNodes % 2 == 1)
+    {
+        int medianValue = 0;
+        int currentCount = 0;
+        findNthNode(root, &currentCount, (totalNodes / 2) + 1, &medianValue);
+        return (float)medianValue;
+    }
+    else
+    {
+        int leftMiddleValue = 0, rightMiddleValue = 0;
+        int currentCount = 0;
+
+        findNthNode(root, &currentCount, totalNodes / 2, &leftMiddleValue);
+        currentCount = 0;
+        findNthNode(root, &currentCount, (totalNodes / 2) + 1, &rightMiddleValue);
+
+        return (leftMiddleValue + rightMiddleValue) / 2.0;
+    }
+}
+
 int main()
 {
     Node* root = NULL;
