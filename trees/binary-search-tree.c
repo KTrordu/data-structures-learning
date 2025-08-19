@@ -143,8 +143,8 @@ Node* removeNode(Node* root, int key)
 {
     if(root == NULL) return root;
 
-    if(key < root->data) root->left = remove(root->left, key);
-    else if(key > root->data) root->right = remove(root->right, key);
+    if(key < root->data) root->left = removeNode(root->left, key);
+    else if(key > root->data) root->right = removeNode(root->right, key);
     else
     {
         if(root->left == NULL)
