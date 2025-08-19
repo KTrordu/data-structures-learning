@@ -157,6 +157,26 @@ float preorder_average(TreeNode* ptr)
     return (float)sum / nodeCount;
 }
 
+int depth(TreeNode* node)
+{
+    if(node->parent == NULL) return 0;
+    else return 1 + depth(node->parent);
+}
+
+int height(TreeNode* node)
+{
+    if(node == NULL) return 0;
+    else if(node->left == NULL) return height(node->right) + 1;
+    else if (node->right == NULL) return height(node->left) + 1;
+    else
+    {
+        int leftHeight = height(node->left);
+        int rightHeight = height(node->right);
+        if(leftHeight > rightHeight) return leftHeight + 1;
+        else return rightHeight + 1;
+    }
+}
+
 int main()
 {
     TreeNode* root = createNodeWithParent(1, NULL);
@@ -180,9 +200,11 @@ int main()
     preorder_count_ref(root, &count);
 
     int avg = preorder_average(root);
-    
 
-    printf("%d\n%d\n%d\n%d\n%d\n", sum, max, min, count, avg);
+    int dep = depth(root->left->left);
+    int hig = height(root->left);
+
+    printf("%d\n%d\n%d\n%d\n%d\n%d\n%d\n", sum, max, min, count, avg, dep, hig);
 
     free(root->left->left);
     free(root->left->right);
