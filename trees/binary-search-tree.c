@@ -139,6 +139,36 @@ float findMedian(Node* root)
     }
 }
 
+Node* removeNode(Node* root, int key)
+{
+    if(root == NULL) return root;
+
+    if(key < root->data) root->left = remove(root->left, key);
+    else if(key > root->data) root->right = remove(root->right, key);
+    else
+    {
+        if(root->left == NULL)
+        {
+            Node* temp = root->right;
+            free(root);
+            return temp;
+        }
+        else if(root->right == NULL)
+        {
+            Node* temp = root->left;
+            free(root);
+            return temp;
+        }
+
+        Node* temp = minValueNode(root->right);
+        root->data = temp->data;
+
+        root->right = removeNode(root->right, temp->data);
+    }
+
+    return root;
+}
+
 int main()
 {
     Node* root = NULL;
